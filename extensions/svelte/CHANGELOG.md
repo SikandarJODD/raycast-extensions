@@ -2,7 +2,7 @@
 
 All notable changes to the Svelte extension will be documented in this file.
 
-## [Unreleased]
+## [Initial Version] - {PR_MERGE_DATE}
 
 - Added interactive CLI Builder command for `sv create` and `sv add` with real-time command preview
 - Added comprehensive Svelte and SvelteKit documentation browser with 80+ documentation links
