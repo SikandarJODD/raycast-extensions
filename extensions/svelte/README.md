@@ -108,7 +108,7 @@ npm run publish
 
 ## Requirements
 
-- Raycast (macOS only)
+- Raycast (macOS or Windows)
 - Node.js 16+
 
 ## Contributing
